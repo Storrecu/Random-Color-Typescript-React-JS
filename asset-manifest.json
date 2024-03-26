@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Random-Color-Typescript-React-JS/static/css/main.0fb7925a.css",
+    "main.js": "/Random-Color-Typescript-React-JS/static/js/main.db68499b.js",
+    "static/js/453.83d0de4f.chunk.js": "/Random-Color-Typescript-React-JS/static/js/453.83d0de4f.chunk.js",
+    "index.html": "/Random-Color-Typescript-React-JS/index.html",
+    "main.0fb7925a.css.map": "/Random-Color-Typescript-React-JS/static/css/main.0fb7925a.css.map",
+    "main.db68499b.js.map": "/Random-Color-Typescript-React-JS/static/js/main.db68499b.js.map",
+    "453.83d0de4f.chunk.js.map": "/Random-Color-Typescript-React-JS/static/js/453.83d0de4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fb7925a.css",
+    "static/js/main.db68499b.js"
+  ]
+}
